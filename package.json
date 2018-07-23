@@ -1,6 +1,6 @@
 {
   "name": "the-rang-ding-crop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "dingtalk crop plugin for the-rang",
   "main": "index.js",
   "scripts": {
